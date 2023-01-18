@@ -1,5 +1,5 @@
 # ExpenseTracker
-This is a project built by me following a tutorial on DesignCode on YouTube.
+This is a project built by me following a tutorial on designcode channel on YouTube.
 
 ![IMG_0249F3A692CE-1](https://user-images.githubusercontent.com/104564732/213264154-1f1d47c3-b99a-4e0d-8fd0-34170caca51e.jpeg)
 
